@@ -1,0 +1,10 @@
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\bin\Debug\Week2.exe.config
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\bin\Debug\Week2.exe
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\bin\Debug\Week2.pdb
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\obj\Debug\inClass1.csprojAssemblyReference.cache
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\obj\Debug\Week2.Calculator.resources
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\obj\Debug\Week2.Properties.Resources.resources
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\obj\Debug\inClass1.csproj.GenerateResource.cache
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\obj\Debug\inClass1.csproj.CoreCompileInputs.cache
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\obj\Debug\Week2.exe
+C:\PROG1815 (WINFORM)\inClass\inClass1\Week2\obj\Debug\Week2.pdb

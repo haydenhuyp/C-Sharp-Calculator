@@ -1,0 +1,10 @@
+C:\PROG1815\Examples\Week2\Week2\bin\Debug\Week2.exe.config
+C:\PROG1815\Examples\Week2\Week2\bin\Debug\Week2.exe
+C:\PROG1815\Examples\Week2\Week2\bin\Debug\Week2.pdb
+C:\PROG1815\Examples\Week2\Week2\obj\Debug\Week2.csprojAssemblyReference.cache
+C:\PROG1815\Examples\Week2\Week2\obj\Debug\Week2.Calculator.resources
+C:\PROG1815\Examples\Week2\Week2\obj\Debug\Week2.Properties.Resources.resources
+C:\PROG1815\Examples\Week2\Week2\obj\Debug\Week2.csproj.GenerateResource.cache
+C:\PROG1815\Examples\Week2\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\PROG1815\Examples\Week2\Week2\obj\Debug\Week2.exe
+C:\PROG1815\Examples\Week2\Week2\obj\Debug\Week2.pdb
